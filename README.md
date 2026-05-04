@@ -33,12 +33,6 @@ Dynamic **Data Analyst** and **MIS Executive** with a strong foundation in end-t
 
 ---
 
-## 📊 GitHub Performance
-![Vikas's Stats](https://github-readme-stats.vercel.app/api?username=vikasmaurya8307&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasmaurya8307&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-saini-your-link)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
