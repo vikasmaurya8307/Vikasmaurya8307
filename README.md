@@ -1,6 +1,6 @@
 # Vikas
 # 📊 Vikas | Data Analyst & MIS Executive
-### Turning Data into Decisions | Python & SQL Specialist
+### Turning Data into Decisions
 
 ---
 
@@ -8,8 +8,7 @@
 Dynamic **Data Analyst** and **MIS Executive** with a strong foundation in end-to-end data pipelines. I specialize in automating business workflows, building interactive dashboards, and optimizing database management systems.
 
 - 🔭 **Expertise:** Automated Reporting, Inventory Logic, and 3D Web Portfolios.
-- 🌱 **Learning:** MERN Stack & Cybersecurity.
-- 🛠️ **Tech Stack:** Python, SQL, HTML/CSS, Power BI.
+- 🛠️ **Tech Stack:** Excel, Python, SQL, HTML/CSS, Power BI.
 
 ---
 
