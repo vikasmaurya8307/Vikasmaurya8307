@@ -1,26 +1,46 @@
-# Vikas
-# 📊 Vikas | Data Analyst & MIS Executive
+
+--# 📊 Vikas Maurya | Data Analyst & MIS Executive
+
 ### Turning Data into Decisions
 
 ---
 
 ## 💫 About Me
-Dynamic **Data Analyst** and **MIS Executive** with a strong foundation in end-to-end data pipelines. I specialize in automating business workflows, building interactive dashboards, and optimizing database management systems.
 
-- 🔭 **Expertise:** Automated Reporting, Inventory Logic, and 3D Web Portfolios.
-- 🛠️ **Tech Stack:** Excel, Python, SQL, HTML/CSS, Power BI.
+BCA graduate and MIS professional with hands-on experience in Advanced Excel, SQL, and Power BI for daily/weekly/monthly reporting. Skilled in Python automation to streamline data workflows and reduce manual reporting effort. Seeking an MIS Executive role in the banking or financial sector.
+
+- 🔭 **Expertise:** MIS Reporting & Automation, Data Reconciliation, Interactive Dashboards
+- 🛠️ **Tech Stack:** Advanced Excel, SQL/MySQL, Power BI, Python (Pandas)
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Key Technologies | Description |
-| :--- | :--- | :--- |
-| **📦 Inventory Management** | `Python`, `SQL`, `Power BI` | End-to-end pipeline for real-time stock monitoring & reorder logic. |
-| **🌐 Interactive Portfolio** | `Three.js`, `HTML`, `CSS` | Data analytics portfolio with futuristic 3D UI & immersive experience. |
-| **🤖 AI-Assisted 3D Web** | `AI-Coding`, `Web Engineering` | High-performance particle systems and interactive 3D structures. |
+|---|---|---|
+| 📦 **Inventory MIS Reporting System** | `Python`, `SQL`, `MySQL` | CLI-based system for real-time inventory data search, updates & secure reporting; automated daily MIS reports. |
+| 📈 **Data Insight & Trend Visualization Dashboard** | `Python`, `Pandas`, `Matplotlib`, `Power BI` | Cleaned & analyzed business datasets; built interactive Power BI dashboards for executive reporting. |
+| 🌐 Interactive Portfolio | `Three.js`, `HTML`, `CSS` | Personal 3D web portfolio project. |
 
 ---
+
+## 🛠️ Technical Arsenal
+
+| Category | Tools |
+|---|---|
+| **Data & MIS** | SQL, MySQL, Advanced Excel, MIS Reporting |
+| **Automation** | Python, Pandas |
+| **Visualization** | Power BI, DAX |
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/vikas-maurya0101) | [Email](mailto:vikasmaurya8307@gmail.com)
+
+---
+
+*"Consistency is the key to mastering code and data."*
 
 ## 🛠️ Technical Arsenal
 
